@@ -1,0 +1,82 @@
+name: "&8xFun Stocks - Portfolio"
+size: 45
+base-item:
+  material: "BOOK"
+  name: "&3&l<symbol> &7(<name>)"
+  lore:
+    - "&8&l* &bAntal: &7<quantity>"
+    - "&8&l* &bKöpt Värde: &7<purchase-value> <server-currency>"
+    - "&8&l* &bNuvarande Värde: &7<current-value> <server-currency>"
+    - "&8&l* &bNet: &7<net>"
+previous-page:
+  slot: 36
+  previous-page:
+    material: "ARROW"
+    name: "&cGå tillbaka"
+    lore:
+      - "&7Gå till föregående sida"
+  no-previous:
+    material: "BARRIER"
+    name: "&4Ingen tidigare sida"
+    lore:
+      - "&cDet finns ingen tidigare sida"
+next-page:
+  slot: 44
+  next-page:
+    material: "ARROW"
+    name: "&aNästa sida"
+    lore:
+      - "&7Gå till nästa sida"
+  no-next:
+    material: "BARRIER"
+    name: "&4Ingen nästa sida"
+    lore:
+      - "&cDet finns ingen nästa sida"
+content-slots:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  - 32
+  - 33
+  - 34
+  - 35
+extra-items:
+  40:
+    material: "DIAMOND"
+    name: "&3&lStatistik"
+    lore:
+      - "&bNuvarande Värde:"
+      - "&7<current-value> <server-currency>"
+      - "&bKöpt Värde:"
+      - "&7<purchase-value> <server-currency>"
+      - "&bNet:"
+      - "&7<net-value> <server-currency>"

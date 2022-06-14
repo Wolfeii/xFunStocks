@@ -1,0 +1,126 @@
+name: "&8xFun Aktier - <symbol>"
+size: 36
+items:
+  0:
+    material: "BOOK"
+    name: "&3Namn"
+    lore:
+      - "&7<name>"
+  1:
+    material: "BOOK"
+    name: "&3Stock Exchange"
+    lore:
+      - "&b<exchange>"
+  2:
+    material: "BOOK"
+    name: "&3Market Cap"
+    lore:
+      - "&b<cap> <market-currency>"
+  3:
+    material: "DIAMOND"
+    name: "&3Server Pris"
+    lore:
+      - "&7<server-price> <server-currency>"
+  4:
+    material: "BOOK"
+    name: "&6&lMarket Price"
+    lore:
+      - "&e<market-price> <market-currency>"
+      - "&6Change from close:"
+      - "&e<change-close>"
+      - "&6Change from year high:"
+      - "&e<change-year-high>"
+      - "&6Change from year low:"
+      - "&e<change-year-low>"
+      - "&6Change from 50 day moving average:"
+      - "&e<change-50-moving-avg>"
+      - "&6Change from 200 day moving average:"
+      - "&e<change-200-moving-avg>"
+  5:
+    material: "DIAMOND"
+    name: "&3Server Price"
+    lore:
+      - "&e<server-price> <server-currency>"
+  6:
+    material: "BOOK"
+    name: "&6&lAnnual Yield"
+    lore:
+      - "&e<yield>%"
+  7:
+    material: "BOOK"
+    name: "&6&lCurrency"
+    lore:
+      - "&e<market-currency>"
+  8:
+    material: "BOOK"
+    name: "&6&lSymbol"
+    lore:
+      - "&e<symbol>"
+  10:
+    material: "BOOK"
+    name: "&6&lDay High"
+    lore:
+      - "&e<day-high> <market-currency>"
+  11:
+    material: "BOOK"
+    name: "&6&lDay Low"
+    lore:
+      - "&e<day-low> <market-currency>"
+  12:
+    material: "BOOK"
+    name: "&6&lOpen Price"
+    lore:
+      - "&e<open-price> <market-currency>"
+  13:
+    material: "BOOK"
+    name: "&6&lVolume"
+    lore:
+      - "&e<volume>"
+  14:
+    material: "BOOK"
+    name: "&6&lPrevious Close Price"
+    lore:
+      - "&e<close-price> <market-currency>"
+  15:
+    material: "BOOK"
+    name: "&6&lYear High"
+    lore:
+      - "&e<year-high> <market-currency>"
+  16:
+    material: "BOOK"
+    name: "&6&lYear Low"
+    lore:
+      - "&e<year-low> <market-currency>"
+historical:
+  data:
+    material: "ENCHANTED_BOOK"
+    name: "&3&l<date>"
+    lore:
+      - "&bDag Öppen:"
+      - "&7<day-open> <market-currency>"
+      - "&bDag Stängd:"
+      - "&7<day-close> <market-currency>"
+      - "&bVolym:"
+      - "&7<volume>"
+      - "&bDagens Högsta:"
+      - "&7<day-high> <market-currency>"
+      - "&bDagens Lägsta"
+      - "&b<day-low> <market-currency>"
+  no-data:
+    material: "BARRIER"
+    name: "&bIngen historisk data hittades"
+    lore:
+      - "&7Ingen data tillgänglig."
+  slots:
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 30
+    - 31
+    - 32

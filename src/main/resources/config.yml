@@ -1,0 +1,19 @@
+locale: "en-US"
+sql:
+  enabled: false
+  ip: "localhost"
+  port: 3306
+  database: "database"
+  username: "username"
+  password: "password"
+cache:
+  expire-minutes: 10
+unknown-data: "N/A"
+transaction-cooldown-seconds: 2
+minutes-between-sale: 5
+minimum-price: 5.0
+price-multiplier: 10
+allowed-currencies:
+  - "USD"
+  - "SEK"
+allowed-exchanges: []

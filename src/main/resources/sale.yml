@@ -1,0 +1,45 @@
+name: "&8xFun Aktier - &8<symbol>"
+size: 36
+items:
+  0:
+    value: -1
+    item:
+      material: "FIREWORK_STAR"
+      name: "&cTa bort 1 &c&l(-1)"
+      lore:
+        - " "
+  9:
+    value: -10
+    item:
+      material: "FIREWORK_STAR"
+      name: "&cTa bort 10 &c&l(-10)"
+      lore:
+        - " "
+  18:
+    value: -100
+    item:
+      material: "FIREWORK_STAR"
+      name: "&cTa bort 100 &c&l(-100)"
+      lore:
+        - " "
+  8:
+    value: -1
+    item:
+      material: "FIRE_CHARGE"
+      name: "&aLägg till 1 &a&l(+1)"
+      lore:
+        - " "
+  17:
+    value: -10
+    item:
+      material: "FIRE_CHARGE"
+      name: "&aLägg till 10 &a&l(+10)"
+      lore:
+        - " "
+  26:
+    value: -100
+    item:
+      material: "FIRE_CHARGE"
+      name: "&aLägg till 100 &a&l(+100)"
+      lore:
+        - " "

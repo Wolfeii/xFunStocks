@@ -1,0 +1,43 @@
+sell-name: "&8xFun Aktier - Säljer <symbol>"
+buy-name: "&8xFun Aktier - Köper <symbol>"
+items:
+  item:
+    material: "PAPER"
+    name: "&3<symbol> &8- &7<quantity>"
+    lore:
+      - " "
+  remove1:
+    material: "FIREWORK_STAR"
+    name: "&cTa bort 1 &c&l(-1)"
+    lore:
+      - " "
+  remove10:
+    material: "FIREWORK_STAR"
+    name: "&cTa bort 10 &c&l(-10)"
+    lore:
+      - " "
+  remove100:
+    material: "FIREWORK_STAR"
+    name: "&cTa bort 100 &c&l(-100)"
+    lore:
+      - " "
+  add1:
+    material: "FIRE_CHARGE"
+    name: "&aLägg till 1 &a&l(+1)"
+    lore:
+      - " "
+  add10:
+    material: "FIRE_CHARGE"
+    name: "&aLägg till 10 &a&l(+10)"
+    lore:
+      - " "
+  add100:
+    material: "FIRE_CHARGE"
+    name: "&aLägg till 100 &a&l(+100)"
+    lore:
+      - " "
+  confirm:
+    material: "LIME_CONCRETE"
+    name: "&aBekräfta Köp"
+    lore:
+      - " "

@@ -1,0 +1,9 @@
+name: xFunStocks
+version: '${project.version}'
+main: se.xfunserver.xfunstocks.xFunStocks
+api-version: 1.18
+authors: [ Wolfeiii ]
+
+commands:
+  stockmarket:
+    description: Main Command
